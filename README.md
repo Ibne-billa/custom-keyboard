@@ -5,7 +5,7 @@ For the past ~4 months, my laptop keyboard has had broken G and H keys. The repl
 
 Thanks again to HackClub for giving me a platform where I can express myself and build something useful instead of just dealing with a broken keyboard.
 
-Design Overview
+>Design Overview
 
 My design is fairly simple and practical.
 
@@ -30,7 +30,7 @@ Then I designed the connections for the RGB LED strip.
 After that, I connected everything to the Raspberry Pi Pico.
 
 <img width="548" height="600" alt="image" src="https://github.com/user-attachments/assets/6cfe3836-293e-4113-bdc9-ef8c7036c58b" />
-PCB Assembly (Most Challenging Part)
+>PCB Assembly (Most Challenging Part)
 
 The hardest part of this project was assembling everything properly in the PCB editor.
 
@@ -43,12 +43,12 @@ Messed up multiple nets and connections
 After a lot of trial and error, I finally managed to create a clean design with no major errors.
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/d4a5079f-1a97-4944-bf85-ddd8f62bf1ae" />
-Final PCB
+>Final PCB
 
 Here is the final PCB design:
 
 <img width="1315" height="712" alt="image" src="https://github.com/user-attachments/assets/25b1020b-9f11-4b37-9dab-28ea5c39eb1c" />
-Case Design
+>Case Design
 
 Next, I started working on the case. Compared to the PCB, this part was easier because the design is simple.
 
@@ -58,6 +58,8 @@ Bottom plate
 Side walls
 Space for a clear top sheet (for aesthetics and protection)
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/9d75d974-e94b-4cb9-84d9-8640b6a23059" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/0c03263f-6f97-4121-800a-7ff114b571e7" />
+
 Final Note
 
 This project has been a big learning experience for me in PCB design, embedded systems, and hardware development. I made mistakes, fixed them, and learned a lot through the process.
