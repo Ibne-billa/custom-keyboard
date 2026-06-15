@@ -5,7 +5,7 @@ For the past ~4 months, my laptop keyboard has had broken G and H keys. The repl
 
 Thanks again to HackClub for giving me a platform where I can express myself and build something useful instead of just dealing with a broken keyboard.
 
->Design Overview
+Design Overview
 
 My design is fairly simple and practical.
 
@@ -43,12 +43,12 @@ Messed up multiple nets and connections
 After a lot of trial and error, I finally managed to create a clean design with no major errors.
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/d4a5079f-1a97-4944-bf85-ddd8f62bf1ae" />
->Final PCB
+Final PCB
 
 Here is the final PCB design:
 
 <img width="1315" height="712" alt="image" src="https://github.com/user-attachments/assets/25b1020b-9f11-4b37-9dab-28ea5c39eb1c" />
->Case Design
+Case Design
 
 Next, I started working on the case. Compared to the PCB, this part was easier because the design is simple.
 
