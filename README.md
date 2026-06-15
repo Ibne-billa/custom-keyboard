@@ -12,14 +12,16 @@ My design is fairly simple and practical.
 I am using a Raspberry Pi Pico as the main controller.
 The keyboard layout is based on Cool84.
 I have also added support for an RGB LED strip, which I plan to connect later for lighting effects.
-Keyboard Layout
+Keyboard Layout:
 <img width="831" height="323" alt="image" src="https://github.com/user-attachments/assets/503acaf3-7bab-4445-9021-a472adb7a67f" />
+
 PCB Design Process
 1. Keyboard Matrix Design
 
 First, I created the switch matrix for the keyboard.
 
 <img width="975" height="545" alt="image" src="https://github.com/user-attachments/assets/7c7167b6-5809-4889-b82d-c6de0860a801" />
+
 2. RGB Strip Connection
 
 Then I designed the connections for the RGB LED strip.
@@ -30,7 +32,8 @@ Then I designed the connections for the RGB LED strip.
 After that, I connected everything to the Raspberry Pi Pico.
 
 <img width="548" height="600" alt="image" src="https://github.com/user-attachments/assets/6cfe3836-293e-4113-bdc9-ef8c7036c58b" />
->PCB Assembly (Most Challenging Part)
+
+PCB Assembly (Most Challenging Part)
 
 The hardest part of this project was assembling everything properly in the PCB editor.
 
